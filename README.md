@@ -1,2 +1,1 @@
-# ttthtml
-Simple TicTacToe game generated with ChatGPT
+# Simple TicTacToe game generated with ChatGPT
